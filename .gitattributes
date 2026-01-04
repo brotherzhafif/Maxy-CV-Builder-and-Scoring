@@ -1,8 +1,2 @@
-* text=auto eol=lf
-
-*.css export-ignore
-*.html export-ignore
-*.md export-ignore
-
-src linguist-detectable=false
-src linguist-detectable=false
+# 1. Reset: Anggap SEMUA file di repo ini tidak perlu dihitung
+* linguist-vendored
